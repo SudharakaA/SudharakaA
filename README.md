@@ -2,7 +2,7 @@ Sudharaka Ashen's GitHub
 
 👋 About Me
 
-I'm Sudharaka Ashen, an undergraduate Software Engineering student at the National Institute of Business Management (NIBM). Currently pursuing an HND in Software Engineering, I'm passionate about building impactful solutions in mobile, web, and software development.
+I'm Sudharaka Ashen, an undergraduate Computer Science student  I'm passionate about building impactful solutions in mobile, web, and software development.
 
 I have experience in:
 
