@@ -1,4 +1,4 @@
-# 💫 About Me: https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611b1u81lt0gpp95jorryf31jzebujewaui7bhkqykx&ep=v1_gifs_search&rid=giphy.gif&ct=g
+# 💫 About Me: <h2><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gifcid=790b7611b1u81lt0gpp95jorryf31jzebujewaui7bhkqykx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="32px"></h2>
 💫 About Me<br><br>👋 Hello! I'm Sudharaka Ashen, an undergraduate in Computer Science with a passion for building impactful mobile, web, and software solutions.<br><br>📚 Experience:<br>Web Development | Android & iOS Development | Java & JavaScript Technologies | Computer Vision & Image Processing<br>Certifications: CCNA, Oracle, Cisco<br>📌 Current Interests<br>Computer Vision with OpenCV<br>Mobile App Development (Android & iOS)<br>Cloud Computing and Machine Learning<br><br>🌱 Goals for 2024<br>Advance iOS development skills towards a career in mobile apps<br>Complete ML and cloud-integrated projects<br>Grow my GitHub with impactful open-source contributions<br>
 
 
