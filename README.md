@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SudharakaA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![]<center>(https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</center>
+<c>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</c>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SudharakaA&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
