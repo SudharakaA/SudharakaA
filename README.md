@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SudharakaA&theme=dracula&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SudharakaA&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-![snake gif](https://github.com/SudharakaA/SudharakaA/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/SudharakaA/SudharakaA/blob/output/github-snake.svg)
 
 ### ✍️ Random Dev Quote
 <c>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</c>
