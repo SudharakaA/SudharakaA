@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br><br>👋 Hello! I'm Sudharaka Ashen, an undergraduate in Computer Science with a passion for building impactful mobile, web, and machine learning based software solutions.<br><br>📚 Experience:<br>Web Development | Android & iOS Development | Java & JavaScript Technologies | Computer Vision & Image Processing<br>Certifications: CCNA, Oracle, Cisco<br>📌 Current Interests<br>Computer Vision with OpenCV<br>Mobile App Development (Android & iOS)<br>Cloud Computing and Machine Learning<br><br>🌱 Goals for 2025<br>Advance iOS development skills towards a career in mobile apps<br>Complete ML and cloud-integrated projects<br>Grow my GitHub with impactful open-source contributions<br>
+<br><br>👋 Hello! I'm Sudharaka Ashen, an undergraduate in Computer Science with a passion for building impactful mobile, web, and machine learning based software solutions.<br><br>📚 Experience:<br>Web Development | Android & iOS Development | Java & JavaScript Technologies | Computer Vision & Image Processing<br>Certifications: 
+Oracle, Cisco<br>📌 Current Interests<br>Computer Vision with OpenCV<br>Mobile App Development (Android & iOS)<br>Cloud Computing and Machine Learning<br><br>🌱 Goals for 2025<br>Advance iOS development skills towards a career in mobile apps<br>Complete ML and cloud-integrated projects<br>Grow my GitHub with impactful open-source contributions<br>
 
 
 ## 🌐 Socials:
