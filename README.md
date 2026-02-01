@@ -17,13 +17,5 @@ Oracle, Cisco<br>📌 Current Interests<br>Computer Vision with OpenCV<br>Mobile
 
 [![S’udharakaA’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SudharakaA&theme=vue)](https://github.com/SudharakaA/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
-<c>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</c>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SudharakaA&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SudharakaA&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
